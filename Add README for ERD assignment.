@@ -1,0 +1,23 @@
+# BÀI THỰC HÀNH: QUẢN LÝ ĐƠN ĐẶT HÀNG
+
+## Thông tin sinh viên
+- Họ và tên: THÀO A KHUA
+- Mã sinh viên: DTC245200974
+- Lớp: CNTT K23G
+
+## Mục tiêu
+Xây dựng sơ đồ ERD cho hệ thống quản lý đơn đặt hàng.
+
+## Nội dung thực hiện
+1. Phân tích yêu cầu bài toán.
+2. Xác định các thực thể và thuộc tính.
+3. Xác định các mối quan hệ.
+4. Vẽ sơ đồ ERD.
+5. Chuẩn hóa mô hình ERD.
+
+## Sơ đồ ERD
+
+![Sơ đồ ERD quản lý đơn đặt hàng](ERD_Quan_ly_don_dat_hang.png)
+
+## Kết quả
+Đã hoàn thành sơ đồ ERD quản lý đơn đặt hàng.
